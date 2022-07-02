@@ -21,7 +21,7 @@
 > add tag to last commit
 > -a : Annotated tag
 > -m : create message
-#### git tag '<'tag'>' <commit>
+#### git tag \<tag\> \<commit\>
 > add tag to specified commit
 #### git tag
 > show tag list
