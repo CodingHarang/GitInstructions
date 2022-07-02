@@ -15,7 +15,7 @@
 > show modifications between last commit and current code
 #### git diff [<branch1>] <branch2>
 > show difference between branch1 and branch2
-#### git diff [<commit1>] <commit2>
+#### git diff [commit1] <commit2>
 > show difference between commit1 and commit2
 #### git tag <tag> [-a [-m]]
 > add tag to last commit
