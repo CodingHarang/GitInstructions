@@ -1,5 +1,5 @@
 ### git init
-create local repository
+  create local repository
 ### git status [-s]
-check status of current local branch
--s : show brief status
+  check status of current local branch
+  -s : show brief status
